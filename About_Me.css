@@ -8,11 +8,9 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-.about-wrapper{
-    height: 100vh;
-}
+
 .about-left{
-    background: #f26a8d;
+    background: #c3798b;
     display: flex;
     flex-direction: column;
     align-items: center;

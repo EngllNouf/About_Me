@@ -1,0 +1,123 @@
+
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+   
+   
+}
+header{
+    font-size: xx-large;
+    
+}
+
+.big_contener{
+    background-color: #f49cbb;
+    padding: 2cm;
+    margin: 1cm;
+    border-radius: 2cm;
+}
+
+.name_box{
+    
+    text-align: center;
+    background-color: #f49cbb;
+    margin: 3cm;
+    font-size: x-large;
+    
+  
+
+    
+    
+}
+ul{
+    list-style: none;
+}
+.icons{
+    background-color: #f1b9cd;
+    display: flex;
+    justify-content: center;
+    padding: 0.8rem 0;
+  
+}
+.icons li{
+    list-style-type: none;
+    background: #f36a8d;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    margin: 0 3.5rem;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+.icons li:hover{
+    background: #edffec;
+    color: #000;
+}
+
+
+
+
+h2{
+    text-align: center;
+    background-color: palevioletred;
+    padding: 1cm;
+    border-radius: 2cm;
+}
+nav{
+    text-align: center;
+    
+    
+    
+}
+#html{
+    background: #f49cbb;
+    padding: 1cm;
+    border-radius: 1cm;
+    font-size: x-large;
+    transition: all 0.5s ease-in-out;
+   
+  
+
+}
+
+#css
+{
+    background: #f49cbb;
+    padding: 1cm;
+    border-radius: 1cm;
+    font-size: x-large;
+    transition: all 0.5s ease-in-out;
+
+}
+#js{
+    background: #f49cbb;
+    padding: 1cm;
+    border-radius: 1cm;
+    font-size: x-large;
+    transition: all 0.5s ease-in-out;
+
+}
+
+#ux
+{
+    background: #f49cbb;
+    padding: 1cm;
+    border-radius: 1cm;
+    font-size: x-large;
+    transition: all 0.5s ease-in-out;
+
+}#candc
+{
+    background: #f49cbb;
+    padding: 1cm;
+    border-radius: 1cm;
+    font-size: x-large;
+    transition: all 0.5s ease-in-out;
+}
+
